@@ -18,7 +18,7 @@
   "license": "MIT",
   "devDependencies": {
     "@capacitor/android": "^2.4.0",
-    "@capacitor/core": "^2.4.0",
+    "@capacitor/core": ">=2.4.0",
     "@capacitor/ios": "^2.4.0",
     "@ionic/prettier-config": "^1.0.0",
     "@ionic/swiftlint-config": "^1.0.0",
